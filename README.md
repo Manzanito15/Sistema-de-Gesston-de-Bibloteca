@@ -37,19 +37,24 @@ Haz clic en la imagen para ver el video de funcionamiento del sistema:
 
 ## 🖼 Imágenes del Proyecto
 
+### 🏠 Login
+
+Un formulario de login bonito y minimanizate y profesional con unos colores y estrucutara correcta.
+
+<img width="1280" height="720" alt="gb1" src="https://github.com/user-attachments/assets/7702fae6-d7fb-4afc-a5c9-d3221cca3e5c" />
+
 ### 🏠 Menú Principal
 
-Pantalla principal del sistema desde donde se accede a todas las funcionalidades de la biblioteca.
+Pantalla principal del sistema desde donde se accede a todas las funcionalidades de la biblioteca (Dentro del Constructor).
 
-![1](https://github.com/user-attachments/assets/e064d50a-8a13-4f2e-8468-2a6712b0ee0c)
+<img width="1280" height="720" alt="gb2" src="https://github.com/user-attachments/assets/63c6c522-338b-46d8-a05a-c7fb9b5f0792" />
 
 ---
-
 ### 📚 Gestión de Libros
 
 Permite registrar nuevos libros, editar información existente, eliminar registros y consultar el catálogo disponible.
 
-![2](https://github.com/user-attachments/assets/5aa0ebea-d373-4c39-83f5-27c5f58cab0a)
+****<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/eb5d6520-495b-4901-82ac-c04d38b2df02" />
 
 ---
 
@@ -57,7 +62,7 @@ Permite registrar nuevos libros, editar información existente, eliminar registr
 
 Al seleccionar un libro disponible, se habilita la opción para registrar préstamos y controlar las devoluciones.
 
-![3](https://github.com/user-attachments/assets/175e8026-0f12-49a6-a9d5-83e2f54352e4)
+
 
 ---
 
