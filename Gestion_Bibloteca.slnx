@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Login/Capa_Datos/Capa_Datos.csproj" Id="874926d8-ba31-4254-ba56-f201356fbaba" />
+  <Project Path="../Login/Capa_Negocios/Capa_Negocios.csproj" Id="b07e42dc-0345-4bee-bf74-68bbd8062d1f" />
+  <Project Path="Gestion_Bibloteca/Capa_Presentacion.csproj" Id="aa634187-72fd-4794-bbc6-f3112d83df55" />
+</Solution>
